@@ -1,4 +1,4 @@
-Real man talk
+Forex Education
 
 a web application that help man with serious issues
 ## Authors
